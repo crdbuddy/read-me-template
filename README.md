@@ -4,7 +4,6 @@
 
 > This is a ReadMe template to help save you time and effort.
 
----
 
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
@@ -15,7 +14,6 @@ You're sections headers will be used to reference location of destination.
 - [License](#license)
 - [Author Info](#author-info)
 
----
 
 ## Description
 
@@ -28,7 +26,6 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 [Back To The Top](#read-me-template)
 
----
 
 ## How To Use
 
@@ -43,12 +40,10 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 ```
 [Back To The Top](#read-me-template)
 
----
 
 ## References
 [Back To The Top](#read-me-template)
 
----
 
 ## License
 
@@ -76,7 +71,6 @@ SOFTWARE.
 
 [Back To The Top](#read-me-template)
 
----
 
 ## Author Info
 
